@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+i like to do fun stuff and cool things
